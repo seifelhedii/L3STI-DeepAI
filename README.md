@@ -8,8 +8,8 @@ Groupe 6 :
 ## Classes
 
 - `Utilisateur` : gestion des utilisateurs.
-- `Historique` : gestion des historiques.
-- `Conversation` : gestion des conversations. (Utilisation IA pour le stockage des conversations dans le tableau Array)
+- `Historique` : gestion des historiques. (Utilisation IA pour le stockage des historiques et des conversations dans le tableau Array)
+- `Conversation` : gestion des conversations.
 - `Message` : gestion des messages.
 - `ModeleIA` : gestion des modèles IA.
 - `Token` : calcul des tokens et des tarifs.
